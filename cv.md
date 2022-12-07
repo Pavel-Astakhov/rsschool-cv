@@ -25,3 +25,10 @@ function highAndLow(numbers){
   return result.join(' ');
 }
 ```
+
+## Education
+- **University:** Modern Technical Institute, Civil Engineering major (Ryazan, 2006-2011)
+- **Courses:** C# and Microsoft .NET Web Development (EPAM, 2022)
+
+## English
+A2 (I hope ☺)
