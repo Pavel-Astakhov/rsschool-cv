@@ -37,7 +37,7 @@ main{
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-around;
-    align-items: center;    
+    align-items: center;
     padding: 100px;
 }
 .avatar{
@@ -55,8 +55,8 @@ h1{
 }
 section{
     font-size: 200%;
-    text-align: left;   
-    border-bottom: 2px #2779a7 solid; 
+    text-align: left;
+    border-bottom: 2px #2779a7 solid;
     border-top: 2px solid #2779a7;
     margin-left: 10%;
     margin-right: 10%;
@@ -66,8 +66,8 @@ section{
 }
 section:first-child{
     font-size: 200%;
-    text-align: center;   
-    border-bottom: 2px #2779a7 solid; 
+    text-align: center;
+    border-bottom: 2px #2779a7 solid;
     margin-left: 10%;
     margin-right: 10%;
 }
@@ -90,5 +90,5 @@ section:first-child{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-bottom: 20px;    
+    padding-bottom: 20px;
 }

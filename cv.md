@@ -2,7 +2,7 @@
 
 ## Contact information
 - **e-mail:** pastakhov88@gmail.com
-- **Discord:** Pavl(@Pavel-Astakhov) 
+- **Discord:** Pavl(@Pavel-Astakhov)
 - **Github** [https://github.com/Pavel-Astakhov](https://github.com/Pavel-Astakhov)
 
 ## About me
