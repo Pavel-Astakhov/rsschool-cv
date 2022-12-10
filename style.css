@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: wheat;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+.content{
+    width: 100%;
+    background: linear-gradient(344deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);;
+
+}
+header{
+    background-color: #2779a7;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+    padding: 15px;
+}
+.nav-list{
+    display: flex;
+    list-style: none;
+}
+.nav-item{
+    padding: 0 15px;
+    font-size: 25px;
+}
+li a{
+    text-decoration: none;
+    color: wheat;
+    font-weight: 600;
+}
+main{
+    padding-top: 0;
+}
+.profile{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;    
+    padding: 100px;
+}
+.avatar{
+    border-radius: 100%;
+    width: 50%;
+}
+.avatar-box{
+    border-radius: 50%;
+}
+h1{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 300%;
+}
+section{
+    font-size: 200%;
+    text-align: left;   
+    border-bottom: 2px #2779a7 solid; 
+    border-top: 2px solid #2779a7;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.section-title{
+    text-align: center;
+}
+section:first-child{
+    font-size: 200%;
+    text-align: center;   
+    border-bottom: 2px #2779a7 solid; 
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.section-items{
+    list-style: none;
+    padding-top: 15px;
+}
+.code-text{
+    text-align: left;
+    position: relative;
+
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 40%;
+}
+.footer{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 20px;    
+}
